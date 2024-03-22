@@ -1,0 +1,28 @@
+body{
+     background-color: #dfb5f0;
+
+}
+
+
+
+h1{
+       color: rgb(102, 16, 98);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    color: rgb(133, 35, 128);
+    foun
+}
+
+h3{
+    color: rgb(190, 0, 181);
+}
+
+a{
+    text-decoration: none;
+}
+
+ul{list-style: none;}
+img{padding: 20px; 
+    width: 300px; }
